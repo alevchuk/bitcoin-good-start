@@ -2,7 +2,7 @@
 How to start using bitcoin the good way
 
 
-# Rescive
+# Recive
 
 # Store
 
