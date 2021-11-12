@@ -22,7 +22,7 @@ You’re gaining control that you would not have when leaving bitcoin on the exc
 
 ### Part 1.1: Procure a Hardware Wallet
 
-SeedSigner is a hardware wallet made from general off-the-shelf part. The advantage of not buying specialized security parts is that you are avoiding being targeted. Order the parts listed here https://seedsigner.com/hardware/
+SeedSigner is a hardware wallet made from general purpose off-the-shelf parts. The advantage of not buying specialized security parts is that you are avoiding being targeted. Order the parts listed here https://seedsigner.com/hardware/
 
 * Should end up being under $50
 * Can take up to a month to get everything shipped to you
