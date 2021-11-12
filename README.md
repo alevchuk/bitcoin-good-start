@@ -12,7 +12,7 @@ A service that helps you buy or sell bitcoin for another currency. For example C
 
 ## Why withdraw your bitcoin?
 
-You’re gaining control that you would not have has when leaving bitcoin on the exchange. For example:
+You’re gaining control that you would not have when leaving bitcoin on the exchange. For example:
 
 1. Censorship resistant: Exchange can censor your transactions so you will not be able to send or receive. This is not possible when you hold your own bitcoin because bitcoin has censorship resistance as a core attribute.
 2. No third party risk: Exchange can be hacked or perform an exit scam. There is no insurance. For example, in 2014 the case of hackers stole 740,000 bitcoin (which is today worth 50 billion USD) from the Mt Gox exchange. In addition, exchanges are exposed to censure by government - a likely threat if bitcoin becomes widely adopted. For example, in 1933 US government ceased gold from people, a lot of the the gold was stored in banks because it was hard to transport. This is not possible when you hold your own bitcoin because you will not be using any third parties.
