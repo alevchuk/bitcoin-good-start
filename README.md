@@ -26,7 +26,7 @@ SeedSigner is a hardware wallet made from general purpose off-the-shelf parts. T
 
 * Should end up being under $50
 * Can take up to a month to get everything shipped to you
-* SeedSigner uses a specific version Raspbery Pi single board computer which purposely does not include WiFi or Bluetuooth for better security. Yet, that version does not come with connection pins soldered. Having gone thru the trouble myself I don’t recommend doing the soldering. Instead you can buy a GPIO Hammer which should connect everything in a much straight forward way.
+* SeedSigner uses a specific version Raspbery Pi single board computer which purposely does not include WiFi or Bluetuooth for better security. Yet, that version does not come with connection pins soldered. Having gone thru the trouble myself I don’t recommend doing the soldering. Instead you can buy a GPIO Hammer which should connect everything in a straight forward way.
 
 ### Part 1.2: Generate Secret Words
 
