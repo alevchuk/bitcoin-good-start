@@ -1,7 +1,5 @@
 # Bitcoin Good Start
 
-How to start using bitcoin the good way
-
 ## Who is this for?
 
 People who have previously bought bitcoin yet have never withdrawn bitcoin from the exchange.
