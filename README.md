@@ -2,19 +2,29 @@
 
 ## Who is this for?
 
-People who have previously bought bitcoin yet have never withdrawn bitcoin from the exchange.
+People who have previously bought bitcoin yet left it on the exchange.
 
 ## What’s an exchange?
 
-A service that helps you buy or sell bitcoin for another currency. For example Coinbase or Cash App.
+A service that helps you buy or sell bitcoin for another currency. For example Coinbase or Cash App. Exchange is where you keep your funds if your not planning to hold them.
+
+## Why hold bitcoin?
+
+[Image: img_2830.jpg] Bitcoin is a shield, not a sword. What I mean by that is that bitcoin is not a get rich overnight scheme. Instead, bitcoin let's you keep what’s yours. It’s a shield that protects you from inflation, bureaucracy fees, and financial repression. It's the peaceful opt-out from the fiat system.
+
+Technology growth is exponential. Bitcoin adoption is exponential. Bitcoin is growing faster than the Internet did. Yet there will never be more than 21 million bitcoins. When you hold bitcoin over the years you rightfully earn the exponential increase in your purchasing power. 
 
 ## Why withdraw your bitcoin?
 
-You’re gaining control that you would not have when leaving bitcoin on the exchange. For example:
+Bitcoin left on the exchange is not your bitcoin.
+
+[Image: image.jpg]
+By withdrawing bitcoin from the exchange to your possession you make your funds:
 
 1. Censorship resistant: Exchange can censor your transactions so you will not be able to send or receive. This is not possible when you hold your own bitcoin because bitcoin has censorship resistance as a core attribute.
-2. No third party risk: Exchange can be hacked or perform an exit scam. There is no insurance. For example, in 2014 the case of hackers stole 740,000 bitcoin (which is today worth 50 billion USD) from the Mt Gox exchange. In addition, exchanges are exposed to confiscation by government - a likely threat if bitcoin becomes widely adopted. For example, in 1933 US government ceased gold from people, a lot of the the gold was stored in banks because it was hard to transport. This is not possible when you hold your own bitcoin because you will not be relying on any third parties.
-3. Verifiable. You trust the exchange to tell you everything about “your” bitcoin. An exchange can pretend that a payment was made, not made, or present a counterfeit as if was real. You don’t have the assurance that the exchange is holding less bitcoin than it owes to it’s customers so this makes you vulnerable to a bank run, an event when the exchange is not able to let some customers withdraw their bitcoin simply because they no longer have the bitcoin. This is not the case when you hold your own bitcoin because you can verify that everything that you own is genuine.
+2. Avoiding third party risk: Exchange can be hacked or perform an exit scam. There is no insurance. For example, in 2014 the case of hackers stole 740,000 bitcoin (which is today worth 50 billion USD) from the Mt Gox exchange. In addition, exchanges are exposed to censure by government - a likely threat if bitcoin becomes widely adopted. This is not possible when you hold your own bitcoin because you will not be using any third parties. 
+3. Portable: Another important example is 1933. The US government ceased gold from people, a lot of the the gold was stored in banks because it was hard to transport. This is not possible when you hold your own bitcoin because you bitcoin is easy to move across the planet within a moments notice. 
+4. Verifiable: You trust the exchange to tell you everything about “your” bitcoin. An exchange can pretend that a payment was made, not made, or present a counterfeit as real. You don’t have the assurance that the exchange is holding less bitcoin than it owes to it’s customers so this makes you vulnerable to a bank run, an event when the exchange is not able to let some customers withdraw their bitcoin simply because they no longer have the bitcoin. This is not the case when you hold your own bitcoin because you can verify that everything that you own is genuine.
 
 ## Part 1: How to withdraw your bitcoin?
 
@@ -22,11 +32,14 @@ You’re gaining control that you would not have when leaving bitcoin on the exc
 
 SeedSigner is a hardware wallet made from general purpose off-the-shelf parts. The advantage of not buying specialized security parts is that you are avoiding being targeted. Order the parts listed here https://seedsigner.com/hardware/
 
-* Should end up being under $50
-* Can take up to a month to get everything shipped to you
-* SeedSigner uses a specific version Raspbery Pi single board computer which purposely does not include WiFi or Bluetuooth for better security. Yet, that version does not come with connection pins soldered. Having gone thru the trouble myself I don’t recommend doing the soldering. Instead you can buy a GPIO Hammer which should connect everything in a straight forward way.
+* Cost is under $50
+* Can take up to a month to get everything shipped from separate sellers. Yet, if you order it as a kit from SeedSigner, it's about 1 week shipping. 
+* SeedSigner uses a specific version Raspbery Pi single board computer which purposely does not include WiFi or Bluetuooth for better security. Yet, that version does not come with connection pins soldered. Having gone thru the trouble myself I don’t recommend doing the soldering. Instead you can buy a GPIO Hammer which should connect everything in a more straight forward way.
 
 ### Part 1.2: Generate Secret Words
+
+
+
 
 ### Part 1.3: Install software on your laptop or desktop
 
@@ -65,6 +78,5 @@ You can practice sending bitcoin your friend, yourself, or back to the exchange 
 ### Part 3.3: Sign the transaction with your hardware wallet
 
 ### Part 3.4: Send the transaction to the bitcoin network
-
 
 
