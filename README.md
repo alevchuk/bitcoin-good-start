@@ -1,5 +1,9 @@
 # Bitcoin Good Start
 
+Latest version is https://alevchuk.medium.com/bitcoin-good-start-c70ef23092c2
+
+# ---- Archived early draft -----
+
 ## Who is this for?
 
 People who have previously bought bitcoin yet left it on the exchange.
